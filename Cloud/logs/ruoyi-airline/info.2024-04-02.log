@@ -1,0 +1,493 @@
+09:00:40.411 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:00:40.455 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:00:40.707 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:00:40.707 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:00:42.702 [main] INFO  c.r.a.AirlineApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:00:44.425 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9301"]
+09:00:44.427 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:00:44.427 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:00:44.552 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:00:45.178 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:00:45.179 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:00:45.179 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:00:46.015 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:00:49.625 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9301"]
+09:00:49.651 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:00:49.652 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:00:49.782 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline 192.168.124.1:9301 register finished
+09:00:51.118 [main] INFO  c.r.a.AirlineApplication - [logStarted,61] - Started AirlineApplication in 12.118 seconds (JVM running for 13.011)
+09:00:51.141 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-dev.yml, group=DEFAULT_GROUP
+09:00:51.142 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline, group=DEFAULT_GROUP
+09:00:51.143 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline.yml, group=DEFAULT_GROUP
+09:00:51.264 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:00:51.325 [RMI TCP Connection(3)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:00:51.340 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:00:51.736 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:00:51.736 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:00:53.054 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:00:53.099 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:00:53.385 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:00:53.385 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:00:53.863 [main] INFO  c.r.a.AirlineAApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:00:55.476 [main] INFO  c.r.a.AirlineBApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:00:55.765 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9401"]
+09:00:55.767 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:00:55.767 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:00:55.902 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:00:56.542 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:00:56.543 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:00:56.543 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:00:57.186 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:00:57.250 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9402"]
+09:00:57.252 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:00:57.252 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:00:57.378 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:00:58.010 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:00:58.011 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:00:58.011 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:00:58.601 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:01:00.911 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9401"]
+09:01:00.934 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:01:00.934 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:01:01.057 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9401 register finished
+09:01:02.257 [main] INFO  c.r.a.AirlineAApplication - [logStarted,61] - Started AirlineAApplication in 12.541 seconds (JVM running for 13.387)
+09:01:02.273 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:01:02.273 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:01:02.274 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:01:02.284 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9402"]
+09:01:02.306 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:01:02.306 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:01:02.440 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9402 register finished
+09:01:02.802 [RMI TCP Connection(3)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:01:03.614 [main] INFO  c.r.a.AirlineBApplication - [logStarted,61] - Started AirlineBApplication in 12.044 seconds (JVM running for 13.104)
+09:01:03.628 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:01:03.629 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:01:03.629 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:01:04.098 [RMI TCP Connection(5)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:07:49.793 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:07:49.797 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:07:49.951 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:07:49.953 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:07:49.957 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:07:49.957 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:07:49.958 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:07:57.079 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:07:57.125 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:07:57.369 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:07:57.370 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:07:59.339 [main] INFO  c.r.a.AirlineApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:08:00.972 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9301"]
+09:08:00.973 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:08:00.974 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:08:01.092 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:08:01.687 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:08:01.687 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:08:01.688 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:08:02.466 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:08:05.967 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9301"]
+09:08:05.988 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:08:05.988 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:08:06.123 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline 192.168.124.1:9301 register finished
+09:08:07.335 [main] INFO  c.r.a.AirlineApplication - [logStarted,61] - Started AirlineApplication in 11.607 seconds (JVM running for 13.592)
+09:08:07.355 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-dev.yml, group=DEFAULT_GROUP
+09:08:07.356 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline, group=DEFAULT_GROUP
+09:08:07.356 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline.yml, group=DEFAULT_GROUP
+09:08:07.831 [RMI TCP Connection(1)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:17:11.510 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:17:11.512 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:17:11.641 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:17:11.644 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:17:11.649 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:17:11.649 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:17:11.649 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:17:17.229 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:17:17.231 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:17:17.363 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:17:17.367 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:17:17.374 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:17:17.374 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:17:17.374 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:17:17.397 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:17:17.447 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:17:17.726 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:17:17.726 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:17:19.826 [main] INFO  c.r.a.AirlineBApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:17:21.935 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9402"]
+09:17:21.936 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:17:21.936 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:17:22.067 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:17:22.719 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:17:22.720 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:17:22.720 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:17:23.194 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:17:23.254 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:17:23.417 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:17:23.524 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:17:23.524 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:17:25.557 [main] INFO  c.r.a.AirlineAApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:17:27.309 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9402"]
+09:17:27.329 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:17:27.329 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:17:27.354 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9401"]
+09:17:27.356 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:17:27.357 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:17:27.458 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9402 register finished
+09:17:27.488 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:17:28.155 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:17:28.156 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:17:28.156 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:17:28.659 [main] INFO  c.r.a.AirlineBApplication - [logStarted,61] - Started AirlineBApplication in 12.637 seconds (JVM running for 13.388)
+09:17:28.680 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:17:28.680 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:17:28.681 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:17:28.819 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:17:29.261 [RMI TCP Connection(6)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:17:32.648 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9401"]
+09:17:32.668 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:17:32.668 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:17:32.800 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9401 register finished
+09:17:33.980 [main] INFO  c.r.a.AirlineAApplication - [logStarted,61] - Started AirlineAApplication in 12.169 seconds (JVM running for 13.046)
+09:17:33.995 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:17:33.995 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:17:33.995 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:17:34.376 [RMI TCP Connection(6)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:20:41.831 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:20:41.831 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:20:41.972 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:20:41.972 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:20:41.972 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:20:41.972 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:20:41.972 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:20:44.383 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:20:44.387 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:20:44.512 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:20:44.514 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:20:44.517 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:20:44.517 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:20:44.517 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:20:45.611 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:20:45.678 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:20:46.011 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:20:46.012 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:20:47.716 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:20:47.762 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:20:47.979 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:20:47.979 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:20:47.996 [main] INFO  c.r.a.AirlineAApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:20:49.740 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9401"]
+09:20:49.741 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:20:49.742 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:20:49.867 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:20:49.875 [main] INFO  c.r.a.AirlineBApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:20:50.524 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:20:50.525 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:20:50.525 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:20:51.174 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:20:51.439 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9402"]
+09:20:51.440 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:20:51.441 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:20:51.554 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:20:51.995 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:20:51.995 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:20:51.995 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:20:52.682 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:20:55.053 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9401"]
+09:20:55.078 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:20:55.079 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:20:55.215 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9401 register finished
+09:20:56.421 [main] INFO  c.r.a.AirlineAApplication - [logStarted,61] - Started AirlineAApplication in 12.265 seconds (JVM running for 13.135)
+09:20:56.443 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:20:56.444 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:20:56.444 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:20:56.482 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9402"]
+09:20:56.502 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:20:56.502 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:20:56.637 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9402 register finished
+09:20:56.702 [RMI TCP Connection(5)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:20:57.801 [main] INFO  c.r.a.AirlineBApplication - [logStarted,61] - Started AirlineBApplication in 11.434 seconds (JVM running for 12.176)
+09:20:57.812 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:20:57.813 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:20:57.813 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:20:58.062 [RMI TCP Connection(6)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:21:09.407 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:21:09.411 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:21:09.539 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:21:09.542 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:21:09.548 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:21:09.548 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:21:09.548 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:21:15.233 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:21:15.279 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:21:15.405 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:21:15.409 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:21:15.539 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:21:15.542 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:21:15.546 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:21:15.546 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:21:15.546 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:21:15.556 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:21:15.557 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:21:17.645 [main] INFO  c.r.a.AirlineAApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:21:19.486 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9401"]
+09:21:19.487 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:21:19.487 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:21:19.607 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:21:20.232 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:21:20.233 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:21:20.233 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:21:20.920 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:21:22.303 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:21:22.348 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:21:22.614 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:21:22.614 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:21:24.558 [main] INFO  c.r.a.AirlineBApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:21:24.638 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9401"]
+09:21:24.658 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:21:24.659 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:21:24.795 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9401 register finished
+09:21:25.974 [main] INFO  c.r.a.AirlineAApplication - [logStarted,61] - Started AirlineAApplication in 12.09 seconds (JVM running for 12.826)
+09:21:25.989 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:21:25.990 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:21:25.990 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:21:26.188 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9402"]
+09:21:26.190 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:21:26.190 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:21:26.307 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:21:26.522 [RMI TCP Connection(3)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:21:27.020 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:21:27.021 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:21:27.021 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:21:27.626 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:21:31.274 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9402"]
+09:21:31.293 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:21:31.293 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:21:31.429 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9402 register finished
+09:21:32.599 [main] INFO  c.r.a.AirlineBApplication - [logStarted,61] - Started AirlineBApplication in 11.66 seconds (JVM running for 12.427)
+09:21:32.611 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:21:32.611 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:21:32.613 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:21:33.150 [RMI TCP Connection(5)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:25:38.515 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:25:38.518 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:25:38.752 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:25:38.755 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:25:38.758 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:25:38.759 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:25:38.759 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:25:47.733 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:25:47.736 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:25:47.870 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:25:47.873 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:25:47.877 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:25:47.878 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:25:47.878 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:25:53.416 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:25:53.463 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:25:53.706 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:25:53.707 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:25:55.688 [main] INFO  c.r.a.AirlineAApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:25:57.312 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9401"]
+09:25:57.313 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:25:57.313 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:25:57.433 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:25:58.019 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:25:58.020 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:25:58.020 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:25:58.628 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:26:02.269 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9401"]
+09:26:02.288 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:26:02.288 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:26:02.422 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9401 register finished
+09:26:03.594 [main] INFO  c.r.a.AirlineAApplication - [logStarted,61] - Started AirlineAApplication in 11.543 seconds (JVM running for 12.285)
+09:26:03.608 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:26:03.609 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:26:03.609 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:26:04.151 [RMI TCP Connection(2)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:26:32.186 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:26:32.190 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:26:32.318 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:26:32.321 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:26:32.324 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:26:32.324 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:26:32.325 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:27:21.482 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:27:21.530 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:27:21.762 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:27:21.762 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:27:23.735 [main] INFO  c.r.a.AirlineAApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:27:25.457 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9401"]
+09:27:25.458 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:27:25.458 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:27:25.584 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:27:26.195 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:27:26.196 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:27:26.196 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:27:26.846 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:27:30.661 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9401"]
+09:27:30.683 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:27:30.684 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:27:30.817 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9401 register finished
+09:27:31.631 [http-nio-9401-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:27:32.042 [main] INFO  c.r.a.AirlineAApplication - [logStarted,61] - Started AirlineAApplication in 11.911 seconds (JVM running for 12.662)
+09:27:32.058 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:27:32.059 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:27:32.059 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:30:27.293 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:30:27.296 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:30:27.424 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:30:27.426 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:30:27.431 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:30:27.431 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:30:27.431 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:30:32.640 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:30:32.642 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:30:32.771 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:30:32.775 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:30:32.779 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:30:32.780 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:30:32.780 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:30:32.930 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:30:32.979 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:30:33.228 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:30:33.228 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:30:35.277 [main] INFO  c.r.a.AirlineAApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:30:37.007 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9401"]
+09:30:37.007 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:30:37.007 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:30:37.132 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:30:37.797 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:30:37.798 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:30:37.798 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:30:38.418 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:30:39.523 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:30:39.568 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:30:39.814 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:30:39.814 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:30:41.813 [main] INFO  c.r.a.AirlineApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:30:42.086 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9401"]
+09:30:42.108 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:30:42.108 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:30:42.239 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9401 register finished
+09:30:43.424 [main] INFO  c.r.a.AirlineAApplication - [logStarted,61] - Started AirlineAApplication in 11.873 seconds (JVM running for 12.621)
+09:30:43.439 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:30:43.439 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:30:43.440 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:30:43.478 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9301"]
+09:30:43.479 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:30:43.479 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:30:43.605 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:30:43.660 [RMI TCP Connection(2)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:30:44.249 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:30:44.250 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:30:44.250 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:30:45.040 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:30:48.562 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9301"]
+09:30:48.586 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:30:48.586 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:30:48.711 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline 192.168.124.1:9301 register finished
+09:30:49.924 [main] INFO  c.r.a.AirlineApplication - [logStarted,61] - Started AirlineApplication in 11.771 seconds (JVM running for 12.528)
+09:30:49.939 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-dev.yml, group=DEFAULT_GROUP
+09:30:49.940 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline, group=DEFAULT_GROUP
+09:30:49.940 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline.yml, group=DEFAULT_GROUP
+09:30:50.328 [RMI TCP Connection(3)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:35:35.568 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:35:35.571 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:35:35.708 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:35:35.710 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:35:35.716 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:35:35.716 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:35:35.716 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:35:43.301 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:35:43.347 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:35:43.587 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:35:43.587 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:35:45.539 [main] INFO  c.r.a.AirlineApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:35:47.162 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9301"]
+09:35:47.163 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:35:47.163 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:35:47.281 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:35:47.867 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:35:47.868 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:35:47.868 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:35:48.643 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:35:52.151 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9301"]
+09:35:52.174 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:35:52.174 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:35:52.309 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline 192.168.124.1:9301 register finished
+09:35:53.520 [main] INFO  c.r.a.AirlineApplication - [logStarted,61] - Started AirlineApplication in 11.581 seconds (JVM running for 12.319)
+09:35:53.534 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-dev.yml, group=DEFAULT_GROUP
+09:35:53.535 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline, group=DEFAULT_GROUP
+09:35:53.535 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline.yml, group=DEFAULT_GROUP
+09:35:54.043 [RMI TCP Connection(2)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:41:00.038 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:41:00.040 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:41:00.169 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:41:00.172 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:41:00.176 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:41:00.177 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:41:00.177 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:41:05.793 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:41:05.839 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:41:06.079 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:41:06.080 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:41:08.058 [main] INFO  c.r.a.AirlineApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:41:09.730 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9301"]
+09:41:09.732 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:41:09.732 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:41:09.856 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:41:10.467 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:41:10.468 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:41:10.468 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:41:11.275 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:41:14.770 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9301"]
+09:41:14.789 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:41:14.789 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:41:14.924 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline 192.168.124.1:9301 register finished
+09:41:16.137 [main] INFO  c.r.a.AirlineApplication - [logStarted,61] - Started AirlineApplication in 11.698 seconds (JVM running for 12.446)
+09:41:16.151 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-dev.yml, group=DEFAULT_GROUP
+09:41:16.151 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline, group=DEFAULT_GROUP
+09:41:16.151 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline.yml, group=DEFAULT_GROUP
+09:41:16.506 [RMI TCP Connection(2)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:44:56.847 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+09:44:56.850 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+09:44:56.981 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+09:44:56.984 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+09:44:56.987 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+09:44:56.987 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+09:44:56.988 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+09:45:02.934 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+09:45:02.985 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+09:45:03.248 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:45:03.248 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:45:05.272 [main] INFO  c.r.a.AirlineAApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+09:45:07.043 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9401"]
+09:45:07.045 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:45:07.045 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+09:45:07.175 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:45:07.839 [main] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1,master} inited
+09:45:07.840 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,160] - dynamic-datasource - add a datasource named [master] success
+09:45:07.840 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,243] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+09:45:08.562 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+09:45:12.476 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9401"]
+09:45:12.500 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+09:45:12.501 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+09:45:12.625 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-airline-a 192.168.124.1:9401 register finished
+09:45:13.819 [main] INFO  c.r.a.AirlineAApplication - [logStarted,61] - Started AirlineAApplication in 12.273 seconds (JVM running for 13.031)
+09:45:13.835 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a-dev.yml, group=DEFAULT_GROUP
+09:45:13.835 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a, group=DEFAULT_GROUP
+09:45:13.835 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-airline-a.yml, group=DEFAULT_GROUP
+09:45:14.185 [RMI TCP Connection(2)-192.168.48.1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+19:39:55.575 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+19:39:55.581 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+19:39:55.599 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+19:39:55.603 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+19:39:55.733 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+19:39:55.737 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+19:39:55.744 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+19:39:55.744 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+19:39:55.744 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+19:39:55.771 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+19:39:55.775 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+19:39:55.778 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+19:39:55.778 [SpringApplicationShutdownHook] INFO  c.b.d.d.d.DefaultDataSourceDestroyer - [destroy,98] - dynamic-datasource close the datasource named [master] success,
+19:39:55.778 [SpringApplicationShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye

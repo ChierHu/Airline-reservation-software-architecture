@@ -1,0 +1,178 @@
+10:21:18.995 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+10:21:19.300 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+10:21:19.300 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+10:21:21.282 [main] INFO  c.r.m.m.RuoYiMonitorApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+10:21:22.447 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9100"]
+10:21:22.449 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:21:22.450 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+10:21:22.594 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:21:23.144 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+10:21:27.233 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9100"]
+10:21:28.423 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+10:21:28.423 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+10:21:28.557 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-monitor 192.168.124.1:9100 register finished
+10:21:28.845 [http-nio-9100-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:21:29.845 [main] INFO  c.r.m.m.RuoYiMonitorApplication - [logStarted,61] - Started RuoYiMonitorApplication in 12.303 seconds (JVM running for 14.011)
+10:21:29.852 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-monitor, group=DEFAULT_GROUP
+10:21:29.857 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-monitor-dev.yml, group=DEFAULT_GROUP
+10:21:29.858 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-monitor.yml, group=DEFAULT_GROUP
+10:27:12.807 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+10:27:13.057 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+10:27:13.058 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+10:27:14.877 [main] INFO  c.r.m.m.RuoYiMonitorApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+10:27:15.752 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9100"]
+10:27:15.754 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:27:15.754 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+10:27:16.148 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:27:16.562 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+10:27:20.478 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9100"]
+10:27:21.584 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+10:27:21.584 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+10:27:21.709 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-monitor 192.168.124.1:9100 register finished
+10:27:23.077 [main] INFO  c.r.m.m.RuoYiMonitorApplication - [logStarted,61] - Started RuoYiMonitorApplication in 11.623 seconds (JVM running for 15.335)
+10:27:23.092 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-monitor, group=DEFAULT_GROUP
+10:27:23.092 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-monitor-dev.yml, group=DEFAULT_GROUP
+10:27:23.092 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-monitor.yml, group=DEFAULT_GROUP
+10:27:23.092 [main] INFO  d.c.b.a.s.c.d.InstanceDiscoveryListener - [lambda$removeStaleInstances$4,138] - Instance '16b58d283786' missing in DiscoveryClient services and will be removed.
+10:27:23.139 [http-nio-9100-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:21:25.077 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+11:21:25.079 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
+12:03:58.663 [main] INFO  c.a.n.c.e.SearchableProperties - [sortPropertySourceDefaultOrder,197] - properties search order:PROPERTIES->JVM->ENV->DEFAULT_SETTING
+12:03:58.955 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+12:03:58.955 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+12:04:00.956 [main] INFO  c.r.m.m.RuoYiMonitorApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+12:04:02.057 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9100"]
+12:04:02.058 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+12:04:02.058 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+12:04:02.493 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+12:04:02.977 [main] INFO  c.a.c.s.SentinelWebMvcConfigurer - [addInterceptors,52] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+12:04:06.983 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9100"]
+12:04:08.167 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+12:04:08.167 [main] INFO  c.a.n.p.a.s.c.ClientAuthPluginManager - [init,56] - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+12:04:08.301 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,76] - nacos registry, DEFAULT_GROUP ruoyi-monitor 192.168.124.1:9100 register finished
+12:04:08.604 [http-nio-9100-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+12:04:09.640 [main] INFO  c.r.m.m.RuoYiMonitorApplication - [logStarted,61] - Started RuoYiMonitorApplication in 12.369 seconds (JVM running for 15.934)
+12:04:09.649 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-monitor, group=DEFAULT_GROUP
+12:04:09.651 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-monitor-dev.yml, group=DEFAULT_GROUP
+12:04:09.651 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListener,129] - [Nacos Config] Listening config: dataId=ruoyi-monitor.yml, group=DEFAULT_GROUP
+12:32:07.699 [reactor-http-nio-8] INFO  d.c.b.a.s.s.StatusUpdater - [logError,138] - Couldn't retrieve status for Instance(id=5f3e53364e30, version=2, registration=Registration(name=ruoyi-airline, managementUrl=http://192.168.124.1:9301/actuator, healthUrl=http://192.168.124.1:9301/actuator/health, serviceUrl=http://192.168.124.1:9301, source=discovery), registered=true, statusInfo=StatusInfo(status=UP, details={}), statusTimestamp=2024-04-01T04:04:08.717Z, info=Info(values={}), endpoints=Endpoints(endpoints={sentinel=Endpoint(id=sentinel, url=http://192.168.124.1:9301/actuator/sentinel), caches=Endpoint(id=caches, url=http://192.168.124.1:9301/actuator/caches), loggers=Endpoint(id=loggers, url=http://192.168.124.1:9301/actuator/loggers), nacosconfig=Endpoint(id=nacosconfig, url=http://192.168.124.1:9301/actuator/nacosconfig), health=Endpoint(id=health, url=http://192.168.124.1:9301/actuator/health), refresh=Endpoint(id=refresh, url=http://192.168.124.1:9301/actuator/refresh), env=Endpoint(id=env, url=http://192.168.124.1:9301/actuator/env), nacosdiscovery=Endpoint(id=nacosdiscovery, url=http://192.168.124.1:9301/actuator/nacosdiscovery), serviceregistry=Endpoint(id=serviceregistry, url=http://192.168.124.1:9301/actuator/serviceregistry), heapdump=Endpoint(id=heapdump, url=http://192.168.124.1:9301/actuator/heapdump), features=Endpoint(id=features, url=http://192.168.124.1:9301/actuator/features), scheduledtasks=Endpoint(id=scheduledtasks, url=http://192.168.124.1:9301/actuator/scheduledtasks), mappings=Endpoint(id=mappings, url=http://192.168.124.1:9301/actuator/mappings), beans=Endpoint(id=beans, url=http://192.168.124.1:9301/actuator/beans), configprops=Endpoint(id=configprops, url=http://192.168.124.1:9301/actuator/configprops), threaddump=Endpoint(id=threaddump, url=http://192.168.124.1:9301/actuator/threaddump), metrics=Endpoint(id=metrics, url=http://192.168.124.1:9301/actuator/metrics), conditions=Endpoint(id=conditions, url=http://192.168.124.1:9301/actuator/conditions), info=Endpoint(id=info, url=http://192.168.124.1:9301/actuator/info)}), buildVersion=null, tags=Tags(values={}))
+org.springframework.web.reactive.function.client.WebClientRequestException: Connection refused: no further information: /192.168.124.1:9301; nested exception is io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: /192.168.124.1:9301
+	at org.springframework.web.reactive.function.client.ExchangeFunctions$DefaultExchangeFunction.lambda$wrapException$9(ExchangeFunctions.java:141)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Assembly trace from producer [reactor.core.publisher.MonoErrorSupplied] :
+	reactor.core.publisher.Mono.error(Mono.java:331)
+	org.springframework.web.reactive.function.client.ExchangeFunctions$DefaultExchangeFunction.wrapException(ExchangeFunctions.java:141)
+Error has been observed at the following site(s):
+	*____________Mono.error ⇢ at org.springframework.web.reactive.function.client.ExchangeFunctions$DefaultExchangeFunction.wrapException(ExchangeFunctions.java:141)
+	*____Mono.onErrorResume ⇢ at org.springframework.web.reactive.function.client.ExchangeFunctions$DefaultExchangeFunction.exchange(ExchangeFunctions.java:106)
+	|_             Mono.map ⇢ at org.springframework.web.reactive.function.client.ExchangeFunctions$DefaultExchangeFunction.exchange(ExchangeFunctions.java:107)
+	|_         Mono.timeout ⇢ at de.codecentric.boot.admin.server.web.client.InstanceExchangeFilterFunctions.lambda$timeout$14(InstanceExchangeFilterFunctions.java:189)
+	|_           Mono.retry ⇢ at de.codecentric.boot.admin.server.web.client.InstanceExchangeFilterFunctions.lambda$retry$13(InstanceExchangeFilterFunctions.java:180)
+	|_             Mono.map ⇢ at de.codecentric.boot.admin.server.web.client.InstanceExchangeFilterFunctions.lambda$handleCookies$18(InstanceExchangeFilterFunctions.java:218)
+	|_             Mono.map ⇢ at de.codecentric.boot.admin.server.web.client.InstanceExchangeFilterFunctions.lambda$convertLegacyEndpoints$8(InstanceExchangeFilterFunctions.java:134)
+	|_        Mono.doOnEach ⇢ at org.springframework.boot.actuate.metrics.web.reactive.client.MetricsWebClientFilterFunction.lambda$instrumentResponse$3(MetricsWebClientFilterFunction.java:89)
+	|_       Mono.doFinally ⇢ at org.springframework.boot.actuate.metrics.web.reactive.client.MetricsWebClientFilterFunction.lambda$instrumentResponse$3(MetricsWebClientFilterFunction.java:94)
+	*__Mono.deferContextual ⇢ at org.springframework.boot.actuate.metrics.web.reactive.client.MetricsWebClientFilterFunction.instrumentResponse(MetricsWebClientFilterFunction.java:89)
+	|_    Mono.contextWrite ⇢ at org.springframework.boot.actuate.metrics.web.reactive.client.MetricsWebClientFilterFunction.filter(MetricsWebClientFilterFunction.java:84)
+	*__________Mono.flatMap ⇢ at de.codecentric.boot.admin.server.web.client.InstanceWebClient.lambda$setInstance$3(InstanceWebClient.java:61)
+	|_           checkpoint ⇢ Request to GET health [DefaultWebClient]
+	|_   Mono.switchIfEmpty ⇢ at org.springframework.web.reactive.function.client.DefaultWebClient$DefaultRequestBodyUriSpec.lambda$exchange$7(DefaultWebClient.java:435)
+	*____________Mono.defer ⇢ at org.springframework.web.reactive.function.client.DefaultWebClient$DefaultRequestBodyUriSpec.exchange(DefaultWebClient.java:432)
+	|_         Mono.flatMap ⇢ at org.springframework.web.reactive.function.client.DefaultWebClient$DefaultRequestBodyUriSpec.exchangeToMono(DefaultWebClient.java:399)
+	|_             Mono.log ⇢ at de.codecentric.boot.admin.server.services.StatusUpdater.doUpdateStatus(StatusUpdater.java:79)
+	|_         Mono.timeout ⇢ at de.codecentric.boot.admin.server.services.StatusUpdater.doUpdateStatus(StatusUpdater.java:80)
+Original Stack Trace:
+		at org.springframework.web.reactive.function.client.ExchangeFunctions$DefaultExchangeFunction.lambda$wrapException$9(ExchangeFunctions.java:141)
+		at reactor.core.publisher.MonoErrorSupplied.subscribe(MonoErrorSupplied.java:55)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4490)
+		at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onError(FluxOnErrorResume.java:103)
+		at reactor.core.publisher.FluxPeekFuseable$PeekFuseableSubscriber.onError(FluxPeekFuseable.java:234)
+		at reactor.core.publisher.FluxPeekFuseable$PeekFuseableSubscriber.onError(FluxPeekFuseable.java:234)
+		at reactor.core.publisher.FluxPeekFuseable$PeekFuseableSubscriber.onError(FluxPeekFuseable.java:234)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onError(MonoNext.java:93)
+		at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onError(MonoFlatMapMany.java:204)
+		at reactor.core.publisher.SerializedSubscriber.onError(SerializedSubscriber.java:124)
+		at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.whenError(FluxRetryWhen.java:225)
+		at reactor.core.publisher.FluxRetryWhen$RetryWhenOtherSubscriber.onError(FluxRetryWhen.java:274)
+		at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onError(FluxContextWrite.java:121)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.drain(FluxConcatMap.java:415)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.onNext(FluxConcatMap.java:251)
+		at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onNext(FluxContextWrite.java:107)
+		at reactor.core.publisher.EmitterProcessor.drain(EmitterProcessor.java:537)
+		at reactor.core.publisher.EmitterProcessor.tryEmitNext(EmitterProcessor.java:343)
+		at reactor.core.publisher.SinkManySerialized.tryEmitNext(SinkManySerialized.java:100)
+		at reactor.core.publisher.InternalManySink.emitNext(InternalManySink.java:27)
+		at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.onError(FluxRetryWhen.java:190)
+		at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:201)
+		at reactor.netty.http.client.HttpClientConnect$MonoHttpConnect$ClientTransportSubscriber.onError(HttpClientConnect.java:311)
+		at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:201)
+		at reactor.netty.resources.DefaultPooledConnectionProvider$DisposableAcquire.onError(DefaultPooledConnectionProvider.java:160)
+		at reactor.netty.internal.shaded.reactor.pool.AbstractPool$Borrower.fail(AbstractPool.java:475)
+		at reactor.netty.internal.shaded.reactor.pool.SimpleDequePool.lambda$drainLoop$9(SimpleDequePool.java:431)
+		at reactor.core.publisher.FluxDoOnEach$DoOnEachSubscriber.onError(FluxDoOnEach.java:186)
+		at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:201)
+		at reactor.netty.resources.DefaultPooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.onError(DefaultPooledConnectionProvider.java:558)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.secondError(MonoFlatMap.java:192)
+		at reactor.core.publisher.MonoFlatMap$FlatMapInner.onError(MonoFlatMap.java:259)
+		at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onError(FluxOnErrorResume.java:106)
+		at reactor.core.publisher.Operators.error(Operators.java:198)
+		at reactor.core.publisher.MonoError.subscribe(MonoError.java:53)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4490)
+		at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onError(FluxOnErrorResume.java:103)
+		at reactor.netty.transport.TransportConnector$MonoChannelPromise.tryFailure(TransportConnector.java:569)
+		at reactor.netty.transport.TransportConnector$MonoChannelPromise.setFailure(TransportConnector.java:515)
+		at reactor.netty.transport.TransportConnector.lambda$doConnect$7(TransportConnector.java:261)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:590)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners0(DefaultPromise.java:583)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:559)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:492)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:636)
+		at io.netty.util.concurrent.DefaultPromise.setFailure0(DefaultPromise.java:629)
+		at io.netty.util.concurrent.DefaultPromise.tryFailure(DefaultPromise.java:118)
+		at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.fulfillConnectPromise(AbstractNioChannel.java:321)
+		at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:337)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+Caused by: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: /192.168.124.1:9301
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Assembly trace from producer [reactor.core.publisher.MonoError] :
+	reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onError(FluxOnErrorResume.java:94)
+	reactor.netty.transport.TransportConnector$MonoChannelPromise.tryFailure(TransportConnector.java:569)
+Error has been observed at the following site(s):
+	*__FluxOnErrorResume$ResumeSubscriber.onError ⇢ at reactor.netty.transport.TransportConnector$MonoChannelPromise.tryFailure(TransportConnector.java:569)
+	*__________________________Mono.onErrorResume ⇢ at reactor.netty.transport.TransportConnector.lambda$connect$6(TransportConnector.java:166)
+	*________________________________Mono.flatMap ⇢ at reactor.netty.transport.TransportConnector.connect(TransportConnector.java:165)
+	*_________________________________Mono.create ⇢ at reactor.netty.resources.DefaultPooledConnectionProvider$PooledConnectionAllocator.connectChannel(DefaultPooledConnectionProvider.java:510)
+	*_________________________________Mono.create ⇢ at reactor.netty.resources.PooledConnectionProvider.acquire(PooledConnectionProvider.java:124)
+	*_________________________________Mono.create ⇢ at reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:210)
+	|_                             Mono.retryWhen ⇢ at reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.subscribe(HttpClientConnect.java:275)
+	*______________________________Flux.concatMap ⇢ at reactor.util.retry.RetrySpec.lambda$generateCompanion$6(RetrySpec.java:360)
+	|_                           Flux.onErrorStop ⇢ at reactor.util.retry.RetrySpec.lambda$generateCompanion$6(RetrySpec.java:379)
+	*________________________Flux.deferContextual ⇢ at reactor.util.retry.RetrySpec.generateCompanion(RetrySpec.java:357)
+	*____________________________Mono.flatMapMany ⇢ at reactor.netty.http.client.HttpClientFinalizer.responseConnection(HttpClientFinalizer.java:102)
+	|_                                  Flux.next ⇢ at org.springframework.http.client.reactive.ReactorClientHttpConnector.connect(ReactorClientHttpConnector.java:116)
+	|_                            Mono.doOnCancel ⇢ at org.springframework.http.client.reactive.ReactorClientHttpConnector.connect(ReactorClientHttpConnector.java:117)
+	|_                           Mono.doOnRequest ⇢ at org.springframework.web.reactive.function.client.ExchangeFunctions$DefaultExchangeFunction.exchange(ExchangeFunctions.java:104)
+	|_                            Mono.doOnCancel ⇢ at org.springframework.web.reactive.function.client.ExchangeFunctions$DefaultExchangeFunction.exchange(ExchangeFunctions.java:105)
+Original Stack Trace:
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:337)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+12:40:16.778 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,95] - De-registering from Nacos Server now...
+12:40:16.780 [SpringApplicationShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,115] - De-registration finished.
